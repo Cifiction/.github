@@ -1,17 +1,12 @@
 <img class="center" src="https://i.imgur.com/DAu1W08.png" alt="drawing" width="200"/>
 
-## How Eldoria was founded
+## About our foundation
 
-Eldoria was founded as an RPG server.
-We planned to make an unique RPG experience within Minecraft with unique self written plugins like every other RPG server wants. Sadly we lacked the resources to make our plans become real. 
-owever we wanted to share the work we already had invested into our projects with others. That's why we initially created this organization.
+
 
 ## What is Eldoria today
 
-Today we are a loose group of developers.
-We maintain multiple projects here in this organization and in other places like the [Landlord](https://github.com/LandlordPlugin) organization.
-All our plugins are open source, because we think it is important to share knowledge end technology. 
-We also think that every user and server owner should be able to build and inspect the plugins they use on their own.
+Rezureax was originally intended as a Minecraft Minigames server. However, over time, interest in 1.8 minigames servers has waned. So the project ended. However, part of the team didn't want to break away from Minecraft development and so Rezureax was founded again with the aim of making high-quality plugins available to everyone.
 
 Most of our plugins are published on [spigot](https://www.spigotmc.org/members/585216/).
 
