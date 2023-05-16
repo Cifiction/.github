@@ -1,4 +1,4 @@
-<img class="center" src="https://imgur.com/Ivz5y6e.png" alt="drawing" width="200"/>
+<img class="center" src="https://i.imgur.com/DAu1W08.png" alt="drawing" width="200"/>
 
 ## How Eldoria was founded
 
