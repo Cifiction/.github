@@ -2,21 +2,18 @@
 
 ## How Cifiction was founded
 
-Eldoria was founded as an RPG server.
-We planned to make an unique RPG experience within Minecraft with unique self written plugins like every other RPG server wants. Sadly we lacked the resources to make our plans become real. 
-owever we wanted to share the work we already had invested into our projects with others. That's why we initially created this organization.
+Cifiction was founded at the end of 2022 as a merger of the two networks PixelSlide (CityBuild) and Rezureax (Minigames & Training). 
+In the spring of 2023, however, it was paused because the project management is currently quite involved with school and university.
 
-## What is Eldoria today
+## About our concept
 
-Today we are a loose group of developers.
-We maintain multiple projects here in this organization and in other places like the [Landlord](https://github.com/LandlordPlugin) organization.
-All our plugins are open source, because we think it is important to share knowledge end technology. 
-We also think that every user and server owner should be able to build and inspect the plugins they use on their own.
+Our dream is to implement a looter shooter in Minecraft - for and by the community. 
+Among other things, we therefore want the open world to be designed by the community itself through a survival server.
 
-Most of our plugins are published on [spigot](https://www.spigotmc.org/members/585216/).
+You can find our entire public concept [here](https://wiki.cifiction.net).
 
-## Get in touch
-You can contact us via our [discord](https://discord.com/invite/rfRuUge)
+## Join the community
+You can join our community on our [discord](https://dsc.gg/cifiction)
 
 <img class="center" href="https://discord.com/invite/rfRuUge" src="https://imgur.com/DEEpqO2.png" alt="drawing" width="300"/>
 
