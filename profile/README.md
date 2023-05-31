@@ -1,6 +1,6 @@
 <img class="center" src="https://imgur.com/Ivz5y6e.png" alt="drawing" width="200"/>
 
-## How Eldoria was founded
+## How Cifiction was founded
 
 Eldoria was founded as an RPG server.
 We planned to make an unique RPG experience within Minecraft with unique self written plugins like every other RPG server wants. Sadly we lacked the resources to make our plans become real. 
