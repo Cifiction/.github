@@ -21,14 +21,11 @@ You can join our community on our [discord](https://dsc.gg/cifiction)
 
 Unfortunately, all application phases in the area of development are currently closed.
 
-### [Game Developer](https://github.com/eldoriarpg/SchematicBrushReborn)
-Schematic Brush Reborn is a revive of the old [Schematic Brush](https://github.com/mikeprimm/SchematicBrush) and the successor of Schematic Brush Reborn V1.
+### [Game Developer](https://apply.cifiction.net/game-dev)
+As a Game Geveloper at Cifiction.net, you are responsible for the Minecraft plugins on the individual servers. 
 
-However it is not really the old schematic brush and has a way better usability.
-It features several new features which will make creating Schematic Brushes as simple as possible!
-It also adds several new features like block place masks, new modifiers, realtime preview and modification.
+### [Web Developer](https://apply.cifiction.net/web-dev)
+As a Web Developer at Cifiction.net you are responsible for the development of our public web presence as well as internal websites.
 
-We also have several Add-ons for it like [Grid Selector](https://github.com/eldoriarpg/gridselector),
-[Schematic Brush Database](https://github.com/eldoriarpg/schematic-brush-database),
-[Schematic Tools](https://github.com/eldoriarpg/schematic-tools),
-[Survival Schematic Brush](https://github.com/eldoriarpg/survivalschematicbrush)
+### [Discord Engineer](https://apply.cifiction.net/dc-engineer)
+As a Discord Engineer you are responsible for the development of Discord Bots and the technology behind our Discord Server.
