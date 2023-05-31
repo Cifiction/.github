@@ -17,7 +17,7 @@ You can join our community on our [discord](https://dsc.gg/cifiction)
 
 <img class="center" href="https://discord.com/invite/rfRuUge" src="https://imgur.com/DEEpqO2.png" alt="drawing" width="300"/>
 
-## Open job advertisements
+## Job advertisements
 
 Unfortunately, all application phases in the area of development are currently closed.
 
