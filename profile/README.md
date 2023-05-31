@@ -1,4 +1,4 @@
-<img class="center" src="https://imgur.com/Ivz5y6e.png" alt="drawing" width="200"/>
+<img class="center" src="https://i.imgur.com/Csz1RUd.png" alt="drawing" width="200"/>
 
 ## How Cifiction was founded
 
