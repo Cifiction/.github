@@ -8,7 +8,8 @@ In the spring of 2023, however, it was paused because the project management is 
 ## About our concept
 
 Our dream is to implement a looter shooter in Minecraft - for and by the community. 
-Among other things, we therefore want the open world to be designed by the community itself through a survival server.
+Among other things, we therefore want the open world to be designed by the community itself through a survival server. 
+In addition, we will work together as a community on the network, as many of our systems will be open source.
 
 You can find our entire public concept [here](https://wiki.cifiction.net).
 
